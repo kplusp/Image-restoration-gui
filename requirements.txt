@@ -1,0 +1,11 @@
+# Core Python libraries
+numpy>=1.21.0
+opencv-python>=4.5.3
+Pillow>=8.3.1
+
+# Deep Learning
+torch>=1.10.0
+torchvision>=0.11.0
+
+# GUI Framework
+tkinter  # Included in standard Python library
